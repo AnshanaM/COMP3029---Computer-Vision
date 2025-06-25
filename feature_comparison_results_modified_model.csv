@@ -1,0 +1,19 @@
+Comparison,Cosine Similarity (mean),Cosine Similarity (std),Euclidean Distance (mean),Euclidean Distance (std),Pearson Correlation (mean),Pearson Correlation (std)
+Original vs. Original,1.0,0.0,0.0,0.0,1.0,0.0
+Original vs. Brightness 0.5x,0.97,0.09,3.08,3.3,0.95,0.14
+Original vs. Brightness 1.5x,0.81,0.28,6.2,5.36,0.71,0.41
+Original vs. Gaussian Noise σ = 0.01,1.0,0.01,0.58,0.27,1.0,0.01
+Original vs. Gaussian Noise σ = 0.05,0.86,0.2,4.6,2.5,0.74,0.38
+Original vs. Gaussian Noise σ = 0.1,0.63,0.35,8.23,3.78,0.43,0.54
+Original vs. Scale 0.8x,0.97,0.08,2.94,1.58,0.93,0.18
+Original vs. Scale 1.2x,0.98,0.04,2.13,1.22,0.97,0.1
+Original vs. Scale 1.5x,0.95,0.1,4.06,2.24,0.9,0.22
+Original vs. Rotation 15°,0.99,0.02,1.22,0.79,0.99,0.04
+Original vs. Rotation 30°,0.99,0.03,1.7,1.12,0.98,0.07
+Original vs. Rotation 45°,0.99,0.03,1.93,1.36,0.97,0.1
+Original vs. Rotation 90°,0.97,0.09,2.59,1.86,0.94,0.19
+Original vs. Rotation 180°,0.96,0.09,3.04,1.91,0.92,0.22
+Original vs. Rotation 360°,0.97,0.07,3.0,1.89,0.93,0.17
+Original vs. Translation 10%,0.99,0.01,1.33,0.76,0.99,0.04
+Original vs. Translation 20%,0.99,0.02,1.9,1.49,0.98,0.05
+Original vs. Translation 30%,0.97,0.08,2.64,2.34,0.95,0.11
